@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\SayiKontrolUygulama\bin\Debug\net9.0\SayiKontrolUygulama.exe
+C:\Users\ACER\source\repos\SayiKontrolUygulama\bin\Debug\net9.0\SayiKontrolUygulama.deps.json
+C:\Users\ACER\source\repos\SayiKontrolUygulama\bin\Debug\net9.0\SayiKontrolUygulama.runtimeconfig.json
+C:\Users\ACER\source\repos\SayiKontrolUygulama\bin\Debug\net9.0\SayiKontrolUygulama.dll
+C:\Users\ACER\source\repos\SayiKontrolUygulama\bin\Debug\net9.0\SayiKontrolUygulama.pdb
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.AssemblyInfo.cs
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.dll
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\refint\SayiKontrolUygulama.dll
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.pdb
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\SayiKontrolUygulama.genruntimeconfig.cache
+C:\Users\ACER\source\repos\SayiKontrolUygulama\obj\Debug\net9.0\ref\SayiKontrolUygulama.dll
